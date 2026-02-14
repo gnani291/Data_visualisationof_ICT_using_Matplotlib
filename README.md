@@ -20,7 +20,7 @@ Rishabh Pant
 
 Each subplot displays two styled line plots using NumPy arrays as sample data.
 
-🛠 Technologies Used
+Technologies Used
 
 Python
 
