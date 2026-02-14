@@ -2,7 +2,7 @@
 
 This project demonstrates how to create multiple subplots using Matplotlib in Python to visualize sample performance data for Indian cricket players.
 
-📌 Project Overview
+Project Overview
 
 The script generates a 2 × 3 grid layout of plots representing six popular Indian cricket players:
 
