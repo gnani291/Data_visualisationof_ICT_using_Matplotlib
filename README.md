@@ -64,6 +64,7 @@ Plots two differently styled lines in each subplot.
 
 Displays the final figure using plt.show().
 
+
 🎯 Purpose
 
 This project is useful for:
