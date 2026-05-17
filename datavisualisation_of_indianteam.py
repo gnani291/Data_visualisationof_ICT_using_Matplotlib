@@ -7,6 +7,7 @@ y = np.array([3, 8, 1, 10])
 font1={'family':'serif','color':'black'}
 font2={'family':'serif','color':'blue','size':10}
 
+
 plt.suptitle("INDIAN CRICKET TEAM",fontdict=font1,fontsize=20)
 
 plt.subplot(2, 3, 1)
